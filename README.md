@@ -4,3 +4,4 @@ Scope: sign-in, dashboard, and CSV export.
 Change CR01: CSV export requested by the product owner.
 Team update: QA will test CSV export.
 Release owner: project manager.
+Manager update: CSV export testing assigned to QA.
